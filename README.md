@@ -6,14 +6,13 @@ Ejercicios, talleres y proyectos desarrollados durante la certificación de Pyth
 [![Platform](https://img.shields.io/badge/platform-FreeCodeCamp-orange.svg)](https://www.freecodecamp.org/)
 [![Status](https://img.shields.io/badge/status-En_Progreso-green.svg)](#)
 
-Repositorio personal destinado a documentar el progreso, ejercicios prácticos, talleres y proyectos de la certificación de **Scientific Computing with Python** (o *Scientific Computing with Python V8*) de [FreeCodeCamp](https://www.freecodecamp.org/).
+Repositorio personal destinado a documentar el progreso, ejercicios prácticos, talleres y proyectos de la certificación de **Python Certification**de [FreeCodeCamp](https://www.freecodecamp.org/learn/python-v9/).
 
 ---
 
 ## 🚀 Objetivos del Repositorio
 
 - 📌 **Documentar el aprendizaje:** Mantener un registro ordenado de la sintaxis y conceptos aprendidos.
-- 💡 **Buenas prácticas:** Aplicar estándares de código limpio (**PEP 8**), uso correcto de funciones, estructuras de datos y control de versiones con Git.
 - 🛠️ **Referencia futura:** Conservar scripts de utilidad para consultas rápidas.
 
 ---
